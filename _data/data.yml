@@ -1,4 +1,3 @@
-sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -27,90 +26,91 @@ sidebar:
     pdf:
 
     languages:
-      title: Idiomas
+      title: Languages
       info:
-        - idiom: Ingles
-          level: Competitivo
+        - idiom: English
+          level: Competive
 
-        - idiom: Español
-          level: Nativo
+        - idiom: Spanish
+          level: Native
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
     interests:
-      title: Intereses
+      title: Interests
       info:
-        - item: Comunicación
+        - item: Communication
           link: # dejar en blanco
         
-        - item: Trabajo en equipo
+        - item: Team Work
           link: # dejar en blanco
         
-        - item: Gestión del tiempo
+        - item: Time Management
           link: # dejar en blanco
           
-        - item: Pasiencia
+        - item: Patience
           link: # dejar en blanco
           
-        - item: Mente abierta
+        - item: Open-mindedness
           link: # dejar en blanco
           
-        - item: Adaptabilidad
+        - item: Adaptability
           link: # dejar en blanco
           
-        - item: Dedicación
+        - item: Dedication
           link: # dejar en blanco
 
 career-profile:
-    title: Perfil
+    title: Career Profile
     summary: |
-        Soy Ingeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Soy una persona entusiasta, motivada, responsable y trabajadora a la que le gusta tener todo tipo de situaciones desafiantes. Me gusta trabajar en equipo y de forma individual, soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros dentro y fuera del área. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.
+        I'm a Computational Systems Engineer who like to learn new skills about programming and differtents areas to help my team. I'm an enthusiastic, self-motivated, responsible and hard working person, who likes to have all kind of challenging situations. I'm able to work well in a team environment, where I could deal with under pressure circumstances,also, I'm able to take instructions from all levels and build up good working relationships with all coworkers. In my daily life and at work I like to be dedicated and organized with all the things that I do.
 education:
-    title: Educación
+    title: Education
     info:
-      - degree: Ingeniería en Sistemas Computacionales
+      - degree: Computer stystems engineering
         university: Tecnológico Nacional de México Campus Colima
-        time: Agosto 2017 - Enero 2022
+        time: Agust 2017 - January 2022
         details: |
 
-      - degree: Prácticas profesionales
+      - degree: Internship
         university: BrightCoders Academy
         time: May 2021 - September 2021
         details: |
 
 experiences:
-    title: Experiencia
+    title: Experiences
     info:
-      - role: Estudiante
+      - role: Student
         time: 2020
         company: Tecnológico Nacional de México Campus Colima
         details: |
-          - Proyecto de Android para aplicar conocimientos aprendidos en séptimo semestre y desarrollo de aplicación que mostraba información sobre todos los taxis en una ciudad.
-          - Esta aplicación estaba conectada a una base de datos MySQL.
-      - role: Practicante
-        time: Mayo 2021 - Septiembre 2021
+          - Basic Android project to apply knowledge to build an app to show information about all the taxis in a town.
+          - This website was connected to a MySQL database.
+      - role: Trainee
+        time: May 2021 - September 2021
         company: BrightCoders Academy
         details: |
-          - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estos desarrollos utilizaban bases de datos PostgreSQL.
-      - role: Voluntario
-        time: Julio 2021 - Agosto 2021
+          Develop junior web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap,
+          and a little bit of JavaScript. These web pages were using PostgreSQL Databases.
+      - role: Volunteering
+        time: July 2021 - August 2021
         company: Hackathon 4 Good
         details: |
-          - Desarrollar los primeros endpoints para el sitio web que necesitaba ser reestructurado con Python.
-          - Se utilizó el framework Flask.
-          - Obtención del primer lugar.
+          - My team won the first place.
+          - Develop the first endpoints for the website that need to be restructure with Python.
+          - Were used the framework Flask.
       - role: Jr Ruby on Rails Backend Developer
-        time: 03/Enero/22 - 20/Enero/23
+        time: 03/Jan/22 - 20/Jan/23
         company: Kinedu, S.A.P.I. de C.V.
         details: |
-          - Desarrollar nuevos controladores, active jobs, vistas y funciones para la aplicación principal y solución problemas a la misma.
-          - Crear servicios en Rails.
-          - Crear scripts para llenar la base de datos.
-          - Crear queries para encontrar registros en la base de datos.
+          - Develop new controllers, active jobs, views and functions for the main app and fix issues.
+          - Create services on Rails.
+          - Create scripts to fill tables in the database.
+          - Create queries to find records in the database.
 
       - role: Jr Python Backend Developer
         time: 03/Jan/26 - Current
         company: Vauxoo
         details: |
-          - Desarrollar nuevas funcionalidades para diferentes proyectos con Odoo ERP y Python.
+          Develop new features for differents projects with Odoo ERP and Python.
 
 certifications:
       title: Certifications
@@ -120,10 +120,10 @@ certifications:
           end: 2021
           organization: BrightCoders Academy
           credentialid: BC0521001
-          credentialurl: https://github.com/AlejandroVI99/BrightCoders-Cerificate
+          credentialurl: github.com/AlejandroVI99/BrightCoders-Cerificate
           credentialname: 
           details: |
-            - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estos desarrollos utilizaban bases de datos PostgreSQL.
-
+              Develop junior web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap,
+              and a little bit of JavaScript. These web pages were using PostgreSQL Databases.
 footer: >
     Alejandro Vázquez Ibarra
