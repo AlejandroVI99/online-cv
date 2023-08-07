@@ -39,13 +39,15 @@ sidebar:
         - idiom: Spanish
           level: Native
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
-      interests:
+    interests:
+      title: Interests
+      info:
         - item: Communication
           link: # dejar en blanco
-    
+        
         - item: Team Work
           link: # dejar en blanco
-    
+        
         - item: Time Management
           link: # dejar en blanco
           
