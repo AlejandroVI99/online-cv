@@ -62,7 +62,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Soy Ingeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Soy una persona entusiasta, motivada, responsable y trabajadora, a la que le gusta tener todo tipo de situaciones desafiantes. Soy capaz de trabajar bien en un entorno de equipo, donde puedo lidiar con circunstancias bajo presión, también soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.education:
+        Soy Ingeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Soy una persona entusiasta, motivada, responsable y trabajadora a la que le gusta tener todo tipo de situaciones desafiantes. Tambien sé de trabajar y adaptarme a los equipos en donde puedo lidiar con circunstancias bajo presión, además soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.
+    education:
     title: Educación
     info:
       - degree: Ingeniería en Sistemas Computacionales
@@ -82,13 +83,13 @@ experiences:
         time: 2020
         company: Tecnológico Nacional de México Campus Colima
         details: |
-          - Proyecto básico de Android para aplicar conocimientos y construir una aplicación que muestre información sobre todos los taxis en una ciudad.
-          - Este sitio web estaba conectado a una base de datos MySQL.
+          - Proyecto de Android para aplicar conocimientos aprendidos en septimo semestre y desarrollo de aplicación que muestraba información sobre todos los taxis en una ciudad.
+          - Esta aplicación estaba conectada a una base de datos MySQL.
       - role: Practicante
         time: Mayo 2021 - Septiembre 2021
         company: BrightCoders Academy
         details: |
-          - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estas desarrollos utilizaban bases de datos PostgreSQL.
+          - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estos desarrollos utilizaban bases de datos PostgreSQL.
       - role: Voluntario
         time: Julio 2021 - Agosto 2021
         company: Hackathon 4 Good
@@ -101,7 +102,7 @@ experiences:
         company: Kinedu, S.A.P.I. de C.V.
         details: |
           - Desarrollar nuevos controladores, active jobs, vistas y funciones para la aplicación principal y solución problemas a la misma.
-          - Crear servicios Rails.
+          - Crear servicios en Rails.
           - Crear scripts para llenar la base de datos.
           - Crear queries para encontrar registros en la base de datos.
 
@@ -122,7 +123,7 @@ certifications:
           credentialurl: https://github.com/AlejandroVI99/BrightCoders-Cerificate
           credentialname: 
           details: |
-            - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estas desarrollos utilizaban bases de datos PostgreSQL.
+            - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript. Estos desarrollos utilizaban bases de datos PostgreSQL.
 
 
 footer: >
