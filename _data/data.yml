@@ -102,7 +102,7 @@ experiences:
           - My team won the first place.
           - Develop the first endpoints for the website that need to be restructure with Python.
           - Were used the framework Flask.
-      - role: Jr Ruby on Rails Back-end Developer
+      - role: Jr Ruby on Rails Backend Developer
         time: 03/Jan/22 - 20/Jan/23
         company: Kinedu, S.A.P.I. de C.V.
         details: |
@@ -111,7 +111,7 @@ experiences:
           - Create scripts to fill tables in the database.
           - Create queries to find records in the database.
 
-      - role: Jr Python Back-end Developer
+      - role: Jr Python Backend Developer
         time: 03/Jan/26 - Current
         company: Vauxoo
         details: |
