@@ -79,12 +79,6 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Student
-        time: 2020
-        company: Tecnológico Nacional de México Campus Colima
-        details: |
-          - Basic Android project to apply knowledge to build an app to show information about all the taxis in a town.
-          - This website was connected to a MySQL database.
       - role: Trainee
         time: May 2021 - September 2021
         company: BrightCoders Academy
@@ -97,7 +91,7 @@ experiences:
           - My team won the first place.
           - Develop the first endpoints for the website that need to be restructure with Python.
           - Were used the framework Flask.
-      - role: Jr Ruby on Rails Backend Developer
+      - role: Ruby on Rails Backend Developer
         time: 03/Jan/22 - 20/Jan/23
         company: Kinedu, S.A.P.I. de C.V.
         details: |
@@ -105,8 +99,9 @@ experiences:
           - Create services on Rails.
           - Create scripts to fill tables in the database.
           - Create queries to find records in the database.
+          - Migrate API version of the main app.
 
-      - role: Jr Python Backend Developer
+      - role: Python Backend Developer
         time: 23/Jan/23 - 31/Oct/23
         company: Vauxoo
         details: |
