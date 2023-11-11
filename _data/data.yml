@@ -68,31 +68,19 @@ education:
     info:
       - degree: Computer stystems engineering
         university: Tecnológico Nacional de México Campus Colima
-        time: August 2017 - January 2022
-        details: |
-
-      - degree: Internship
-        university: BrightCoders Academy
-        time: May 2021 - September 2021
+        time: August/2017 - January/2022
         details: |
 
 experiences:
     title: Experiences
     info:
-      - role: Trainee
-        time: May 2021 - September 2021
-        company: BrightCoders Academy
+      - role: Python Backend Developer
+        time: 23/January/23 - 31/October/23
+        company: Vauxoo
         details: |
-          - Develop web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap and JavaScript. These web pages were using PostgreSQL Databases.
-      - role: Volunteering
-        time: July 2021 - August 2021
-        company: Hackathon 4 Good
-        details: |
-          - My team won the first place.
-          - Develop the first endpoints for the website that need to be restructure with Python.
-          - Were used the framework Flask.
+          - Develop new features for differents projects with Odoo ERP and Python.
       - role: Ruby on Rails Backend Developer
-        time: 03/Jan/22 - 20/Jan/23
+        time: 03/January/22 - 20/January/23
         company: Kinedu, S.A.P.I. de C.V.
         details: |
           - Develop new controllers, active jobs, views and functions for the main app and fix issues.
@@ -100,12 +88,19 @@ experiences:
           - Create scripts to fill tables in the database.
           - Create queries to find records in the database.
           - Migrate API version of the main app.
-
-      - role: Python Backend Developer
-        time: 23/Jan/23 - 31/Oct/23
-        company: Vauxoo
+      - role: Volunteering
+        time: July/2021 - August/2021
+        company: Hackathon 4 Good
         details: |
-          - Develop new features for differents projects with Odoo ERP and Python.
+          - My team won the first place.
+          - Develop the first endpoints for the website that need to be restructure with Python.
+          - Were used the framework Flask.
+      - role: Trainee
+        time: May/2021 - September/2021
+        company: BrightCoders Academy
+        details: |
+          - Develop web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap, JavaScript and PostgreSQL Databases.
+
 
 certifications:
       title: Certifications
