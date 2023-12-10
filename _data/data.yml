@@ -79,6 +79,8 @@ experiences:
         company: Vauxoo
         details: |
           - Develop new features for differents projects with Odoo ERP and Python.
+          - Work with GraphQL.
+          - Docker usage
       - role: Ruby on Rails Backend Developer
         time: 03/January/22 - 20/January/23
         company: Kinedu, S.A.P.I. de C.V.
@@ -88,6 +90,8 @@ experiences:
           - Create scripts to fill tables in the database.
           - Create queries to find records in the database.
           - Migrate API version of the main app.
+          - Work with the API's of Stripe, Apple payment and Google payment.
+          - Docker usage.
       - role: Volunteering
         time: July/2021 - August/2021
         company: Hackathon 4 Good
