@@ -74,18 +74,31 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Freelance Fullstack Developer
+        time: 27/November/23 - Present
+        company: CECYTCOL(Consejo Estatal de Ciencia y Tecnología del Estado de Colima)
+        details: |
+          - Develop new controllers, views and functions for a request application with Ruby on Rails.
+          - Create scripts to fill tables in the database.
+          - Create queries to find records in the database.
+          - Create views in ReactJS.
       - role: Python Backend Developer
         time: 23/January/23 - 31/October/23
         company: Vauxoo
         details: |
-          - Develop new features for differents projects with Odoo ERP and Python.
-          - Work with GraphQL.
+          - Create Odoo ERP projects.
+          - Develop new features for differents projects using Python.
+          - Create unit tests.
+          - Modify views with JavaScript.
+          - Create queries to find records in the database.
           - Docker usage.
+          - Pylint usage.
       - role: Ruby on Rails Backend Developer
         time: 03/January/22 - 20/January/23
-        company: Kinedu, S.A.P.I. de C.V.
+        company: Kinedu
         details: |
           - Develop new controllers, active jobs, views and functions for the main app and fix issues.
+          - Create unit test using RSpec.
           - Create services on Rails.
           - Create scripts to fill tables in the database.
           - Create queries to find records in the database.
