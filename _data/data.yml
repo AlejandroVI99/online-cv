@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Alejandro Vázquez Ibarra
-    tagline: Backend Developer
+    tagline: Jr Backend Developer
     avatar: AlejandroVázquez(2)(1).jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,96 +27,100 @@ sidebar:
     pdf:
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Competive
+        - idiom: Ingles
+          level: Competitivo
 
-        - idiom: Spanish
-          level: Native
+        - idiom: Español
+          level: Nativo
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Communication
+        - item: Comunicación
           link: # dejar en blanco
         
-        - item: Team Work
+        - item: Trabajo en equipo
           link: # dejar en blanco
         
-        - item: Time Management
+        - item: Gestión del tiempo
           link: # dejar en blanco
           
-        - item: Patience
+        - item: Pasiencia
           link: # dejar en blanco
           
-        - item: Open-mindedness
+        - item: Mente abierta
           link: # dejar en blanco
           
-        - item: Adaptability
+        - item: Adaptabilidad
           link: # dejar en blanco
           
-        - item: Dedication
+        - item: Dedicación
           link: # dejar en blanco
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
-        I'm a Computational Systems Engineer who like to learn new skills about programming and differtents areas to help my team. I'm an enthusiastic, self-motivated, responsible and hard working person, who likes to have all kind of challenging situations. I'm able to work well in a team environment, where I could deal with under pressure circumstances,also, I'm able to take instructions from all levels and build up good working relationships with all coworkers. In my daily life and at work I like to be dedicated and organized with all the things that I do.
-education:
-    title: Education
+        Soy Ingeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Soy una persona entusiasta, motivada, responsable y trabajadora a la que le gusta tener todo tipo de situaciones desafiantes. Me gusta trabajar en equipo y de forma individual, soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros dentro y fuera del área. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.education:
+    title: Educación
     info:
-      - degree: Computer stystems engineering
+      - degree: Ingeniería en Sistemas Computacionales
         university: Tecnológico Nacional de México Campus Colima
-        time: August/2017 - January/2022
+        time: Agosto 2017 - Enero 2022
+        details: |
+
+      - degree: Prácticas profesionales
+        university: BrightCoders Academy
+        time: May 2021 - September 2021
         details: |
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
       - role: Freelance Fullstack Developer
-        time: 27/November/23 - Present
+        time: 27/Noviembre/23 - Present
         company: CECYTCOL(Consejo Estatal de Ciencia y Tecnología del Estado de Colima)
         details: |
-          - Develop new controllers, views and functions for a request application with Ruby on Rails.
-          - Create scripts to fill tables in the database.
-          - Create queries to find records in the database.
-          - Create views in ReactJS.
+          - Desarrollar nuevos controladores, vistas y funciones para una aplicación de solicitudes con Ruby on Rails.
+          - Crear scripts para llenar tablas en la base de datos.
+          - Crear consultas para encontrar registros en la base de datos.
+          - Crear vistas en ReactJS.
       - role: Python Backend Developer
-        time: 23/January/23 - 31/October/23
+        time: 23/Enero/23 - 31/Octubre/23
         company: Vauxoo
         details: |
-          - Create Odoo ERP projects.
-          - Develop new features for differents projects using Python.
-          - Create unit tests.
-          - Modify views using JavaScript.
-          - Create queries to find records in the database.
-          - Docker usage.
-          - Pylint usage.
+          - Crear proyectos de ERP en Odoo.
+          - Desarrollar nuevas características para diferentes proyectos utilizando Python.
+          - Crear pruebas unitarias.
+          - Modificar vistas utilizando JavaScript.
+          - Crear consultas para encontrar registros en la base de datos.
+          - Uso de Docker.
+          - Uso de Pylint.
       - role: Ruby on Rails Backend Developer
-        time: 03/January/22 - 20/January/23
+        time: 03/Enero/22 - 20/Enero/23
         company: Kinedu
         details: |
-          - Develop new controllers, active jobs, views and functions for the main app and fix issues.
-          - Create unit test using RSpec.
-          - Create services on Rails.
-          - Create scripts to fill tables in the database.
-          - Create queries to find records in the database.
-          - Migrate API version of the main app.
-          - Work with the API's of Stripe, Apple payment and Google payment.
-          - Docker usage.
-      - role: Volunteering
-        time: July/2021 - August/2021
+          - Desarrollar nuevos controladores, trabajos activos, vistas y funciones para la aplicación principal y solucionar problemas.
+          - Crear pruebas unitarias utilizando RSpec.
+          - Crear servicios en Rails.
+          - Crear scripts para llenar tablas en la base de datos.
+          - Crear consultas para encontrar registros en la base de datos.
+          - Migrar la versión de la API de la aplicación principal.
+          - Trabajar con las API de Stripe, Apple Payment y Google Payment.
+          - Uso de Docker.
+      - role: Participante
+        time: Julio/2021
         company: Hackathon 4 Good
         details: |
-          - My team won the first place.
-          - Develop the first endpoints for the website that need to be restructure with Python.
-          - Were used the framework Flask.
-      - role: Trainee
-        time: May/2021 - September/2021
+          - Mi equipo ganó el primer lugar.
+          - Desarrollar los primeros puntos finales (endpoints) para el sitio web que necesitan ser reestructurados con Python.
+          - Se utilizó el framework Flask.
+      - role: Practicante
+        time: Mayo/2021 - septiembre/2021
         company: BrightCoders Academy
         details: |
-          - Develop web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap, JavaScript and PostgreSQL Databases.
+          - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas web como SASS, Rubocop, RSpec, Bootstrap, JavaScript y bases de datos PostgreSQL.
 
 
 certifications:
@@ -127,7 +131,11 @@ certifications:
           end: 2021
           organization: BrightCoders Academy
           credentialid: BC0521001
-          website: github.com/AlejandroVI99/BrightCoders-Cerificate
+          credentialurl: https://github.com/AlejandroVI99/BrightCoders-Cerificate
           credentialname: 
           details: |
-              - Develop junior web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap and JavaScript. These web pages were using PostgreSQL Databases.
+            - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas web como SASS, Rubocop, RSpec, Bootstrap, JavaScript y bases de datos PostgreSQL.
+
+
+footer: >
+    Alejandro Vázquez Ibarra
