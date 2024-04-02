@@ -1,0 +1,133 @@
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alejandro Vázquez Ibarra
+    tagline: Backend Developer
+    avatar: AlejandroVázquez(2)(1).jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: avi200599@gmail.com
+    phone: 3121090586
+    timezone:
+    citizenship:
+    website: 
+    linkedin: alejandro-vazquez-ibarra
+    xing: 
+    github: AlejandroVI99
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Competive
+
+        - idiom: Spanish
+          level: Native
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+    interests:
+      title: Interests
+      info:
+        - item: Communication
+          link: # dejar en blanco
+        
+        - item: Team Work
+          link: # dejar en blanco
+        
+        - item: Time Management
+          link: # dejar en blanco
+          
+        - item: Patience
+          link: # dejar en blanco
+          
+        - item: Open-mindedness
+          link: # dejar en blanco
+          
+        - item: Adaptability
+          link: # dejar en blanco
+          
+        - item: Dedication
+          link: # dejar en blanco
+
+career-profile:
+    title: Career Profile
+    summary: |
+        I'm a Computational Systems Engineer who like to learn new skills about programming and differtents areas to help my team. I'm an enthusiastic, self-motivated, responsible and hard working person, who likes to have all kind of challenging situations. I'm able to work well in a team environment, where I could deal with under pressure circumstances,also, I'm able to take instructions from all levels and build up good working relationships with all coworkers. In my daily life and at work I like to be dedicated and organized with all the things that I do.
+education:
+    title: Education
+    info:
+      - degree: Computer stystems engineering
+        university: Tecnológico Nacional de México Campus Colima
+        time: August/2017 - January/2022
+        details: |
+
+experiences:
+    title: Experiences
+    info:
+      - role: Freelance Fullstack Developer
+        time: 27/November/23 - Present
+        company: CECYTCOL(Consejo Estatal de Ciencia y Tecnología del Estado de Colima)
+        details: |
+          - Develop new controllers, views and functions for a request application with Ruby on Rails.
+          - Create scripts to fill tables in the database.
+          - Create queries to find records in the database.
+          - Create views in ReactJS.
+      - role: Python Backend Developer
+        time: 23/January/23 - 31/October/23
+        company: Vauxoo
+        details: |
+          - Create Odoo ERP projects.
+          - Develop new features for differents projects using Python.
+          - Create unit tests.
+          - Modify views using JavaScript.
+          - Create queries to find records in the database.
+          - Docker usage.
+          - Pylint usage.
+      - role: Ruby on Rails Backend Developer
+        time: 03/January/22 - 20/January/23
+        company: Kinedu
+        details: |
+          - Develop new controllers, active jobs, views and functions for the main app and fix issues.
+          - Create unit test using RSpec.
+          - Create services on Rails.
+          - Create scripts to fill tables in the database.
+          - Create queries to find records in the database.
+          - Migrate API version of the main app.
+          - Work with the API's of Stripe, Apple payment and Google payment.
+          - Docker usage.
+      - role: Volunteering
+        time: July/2021 - August/2021
+        company: Hackathon 4 Good
+        details: |
+          - My team won the first place.
+          - Develop the first endpoints for the website that need to be restructure with Python.
+          - Were used the framework Flask.
+      - role: Trainee
+        time: May/2021 - September/2021
+        company: BrightCoders Academy
+        details: |
+          - Develop web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap, JavaScript and PostgreSQL Databases.
+
+
+certifications:
+      title: Certifications
+      list:
+        - name: Ruby on Rails Developer
+          start: 2021
+          end: 2021
+          organization: BrightCoders Academy
+          credentialid: BC0521001
+          website: github.com/AlejandroVI99/BrightCoders-Cerificate
+          credentialname: 
+          details: |
+              - Develop junior web pages with the framework Ruby on Rails, using web tools like SASS, Rubocop, RSpec, Bootstrap and JavaScript. These web pages were using PostgreSQL Databases.
