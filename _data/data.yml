@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Alejandro Vázquez Ibarra
-    tagline: Jr Backend Developer
+    tagline: Backend Developer
     avatar: AlejandroVázquez(2)(1).jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,7 +62,7 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-        Soy Ingeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Soy una persona entusiasta, motivada, responsable y trabajadora a la que le gusta tener todo tipo de situaciones desafiantes. Me gusta trabajar en equipo y de forma individual, soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros dentro y fuera del área. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.
+        Mi nombre es Alejandro y soyIngeniero en Sistemas Computacionales y me gusta aprender nuevas habilidades sobre programación y diferentes áreas para ayudar a mi equipo. Me considero una persona entusiasta, motivada, responsable y trabajadora a la que le gusta tener todo tipo de situaciones desafiantes. Me gusta trabajar en equipo y de forma individual, soy capaz de recibir instrucciones de todos los niveles y construir buenas relaciones con todos los compañeros dentro y fuera del área. En mi vida diaria y en el trabajo me gusta ser dedicado y organizado con todas las cosas que hago.
     title: Educación
     info:
       - degree: Ingeniería en Sistemas Computacionales
