@@ -113,7 +113,7 @@ experiences:
         time: Julio/2021
         company: Hackathon 4 Good
         details: |
-          - Equipo ganador
+          - Equipo ganador.
           - Desarrollar los primeros principales endpoints para el sitio web que necesitan reestructurar con Python.
           - Uso del framework Flask.
       - role: Practicante
