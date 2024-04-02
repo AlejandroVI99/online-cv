@@ -79,7 +79,7 @@ experiences:
     title: Experiencia
     info:
       - role: Freelance Fullstack Developer
-        time: 27/Noviembre/23 - Present
+        time: 27/Noviembre/23 - Presente
         company: CECYTCOL(Consejo Estatal de Ciencia y Tecnología del Estado de Colima)
         details: |
           - Desarrollar nuevos controladores, vistas y funciones para una aplicación de solicitudes con Ruby on Rails.
@@ -124,7 +124,7 @@ experiences:
 
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
         - name: Ruby on Rails Developer
           start: 2021
