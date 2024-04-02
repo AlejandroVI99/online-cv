@@ -128,8 +128,6 @@ certifications:
       title: Certificaciones
       list:
         - name: Ruby on Rails Developer
-          start: 2021
-          end: 2021
           organization: BrightCoders Academy
           credentialid: BC0521001
           credentialurl: https://github.com/AlejandroVI99/BrightCoders-Cerificate
