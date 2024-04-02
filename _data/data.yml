@@ -113,9 +113,9 @@ experiences:
         time: Julio/2021
         company: Hackathon 4 Good
         details: |
-          - Mi equipo ganó el primer lugar.
-          - Desarrollar los primeros puntos finales (endpoints) para el sitio web que necesitan ser reestructurados con Python.
-          - Se utilizó el framework Flask.
+          - Equipo ganador
+          - Desarrollar los primeros principales endpoints para el sitio web que necesitan reestructurar con Python.
+          - Uso del framework Flask.
       - role: Practicante
         time: Mayo/2021 - septiembre/2021
         company: BrightCoders Academy
