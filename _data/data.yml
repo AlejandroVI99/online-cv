@@ -130,6 +130,30 @@ certifications:
           details: |
             - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas web como SASS, Rubocop, RSpec, Bootstrap, JavaScript y bases de datos PostgreSQL.
 
+skills:
+    title: Habilidades y Competencias
+
+    toolset:
+      - name: Ruby on Rails
+        level: 70%
+
+      - name: Javascript
+        level: 40%
+
+      - name: React
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: Python
+        level: 50%
+
+      - name: Git
+        level: 70%
+        
+      - name: Github
+        level: 70%
 
 footer: >
     Alejandro Vázquez Ibarra
