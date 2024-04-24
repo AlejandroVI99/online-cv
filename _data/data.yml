@@ -83,45 +83,40 @@ experiences:
         time: 27/Noviembre/23 - Presente
         company: CECYTCOL(Consejo Estatal de Ciencia y Tecnología del Estado de Colima)
         details: |
-          - Desarrollar nuevos controladores, vistas y funciones para una aplicación de solicitudes con Ruby on Rails.
-          - Crear scripts para llenar tablas en la base de datos.
-          - Crear consultas para encontrar registros en la base de datos.
-          - Crear vistas en ReactJS.
+         - Desarrollé la API y nuevas funcionalidades para una aplicación de solicitudes utilizando Ruby on Rails.
+         - Implementé controladores, vistas y funciones adicionales.
+         - Creé scripts para poblar la base de datos y consultas para recuperar registros.
+         - Construí un proyecto en ReactJS y establecí un pipeline en Heroku.
+         - Realicé el despliegue de la API y la aplicación en Heroku.
       - role: Python Backend Developer
         time: 23/Enero/23 - 31/Octubre/23
         company: Vauxoo
         details: |
-          - Crear proyectos de ERP en Odoo.
-          - Desarrollar nuevas características para diferentes proyectos utilizando Python.
-          - Crear pruebas unitarias.
-          - Modificar vistas utilizando JavaScript.
-          - Crear consultas para encontrar registros en la base de datos.
-          - Uso de Docker.
-          - Uso de Pylint.
+         - Contribuí al desarrollo de proyectos de ERP en Odoo, utilizando Python.
+         - Implementé nuevas características y realicé pruebas unitarias.
+         - Modifiqué vistas con JavaScript y trabajé con consultas de bases de datos.
+         - Utilicé Docker y Pylint para el desarrollo y la calidad del código.
       - role: Ruby on Rails Backend Developer
         time: 03/Enero/22 - 20/Enero/23
         company: Kinedu
         details: |
-          - Desarrollar nuevos controladores, trabajos activos, vistas y funciones para la aplicación principal y solucionar problemas.
-          - Crear pruebas unitarias utilizando RSpec.
-          - Crear servicios en Rails.
-          - Crear scripts para llenar tablas en la base de datos.
-          - Crear consultas para encontrar registros en la base de datos.
-          - Migrar la versión de la API de la aplicación principal.
-          - Trabajar con las API de Stripe, Apple Payment y Google Payment.
-          - Uso de Docker.
+         - Desarrollé controladores, trabajos activos, vistas y funciones para la aplicación principal.
+         - Creé pruebas unitarias con RSpec y servicios en Rails.
+         - Desarrollé scripts para la base de datos y realicé migraciones de la API.
+         - Integré servicios de Stripe, Apple Payment y Google Payment.
+         - Utilicé Docker para el desarrollo y despliegue.
       - role: Participante
         time: Julio/2021
         company: Hackathon 4 Good
         details: |
-          - Equipo ganador.
-          - Desarrollar los primeros principales endpoints para el sitio web que necesitan reestructurar con Python.
-          - Uso del framework Flask.
+         - Formé parte del equipo ganador.
+         - Desarrollé los principales endpoints para el sitio web utilizando Python y el framework Flask.
       - role: Practicante
         time: Mayo/2021 - Septiembre/2021
         company: BrightCoders Academy
         details: |
-          - Desarrollar páginas web con el framework Ruby on Rails, utilizando herramientas web como SASS, Rubocop, RSpec, Bootstrap, JavaScript y bases de datos PostgreSQL.
+         - Desarrollé páginas web utilizando Ruby on Rails y herramientas como SASS, Rubocop, RSpec, Bootstrap y JavaScript.
+         - Trabajé con bases de datos PostgreSQL para el desarrollo de aplicaciones web.
 
 
 certifications:
